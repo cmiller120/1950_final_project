@@ -1,0 +1,74 @@
+ <!DOCTYPE html>
+<html lang="en">
+<title>Homework</title>
+<meta charset="utf-8">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">
+</script>
+<![endif]-->
+
+
+<body>
+
+<header>
+  <h1>Homework # </h1>
+</header>
+
+<nav>
+  <ul>
+  <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+   <li>homework  </li>
+  </ul>
+</nav>
+
+<section>
+<h2>News Section</h2>
+<div id="objective">
+<h2> </h2>
+<p> </p>
+</div>
+<div id="assigned">
+<h2> </h2>
+<p> </p>
+</div>
+<div id="due">
+<h2> </h2>
+<p> </p>
+</div>
+
+<div id="specification">
+  <h2>News Article</h2>
+  <p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum
+  lurum hurum turum.</p>
+  <p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum
+  lurum hurum turum.</p>
+  <p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum
+  lurum hurum turum.</p>
+</div>
+
+<div id="notes">
+<h2>News Article</h2>
+  <p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum
+  lurum hurum turum.</p>
+  <p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum
+  lurum hurum turum.</p>
+  <p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum
+  lurum hurum turum.</p>
+</div>
+
+</section>
+
+<footer>
+  <p>&amp;copy; 2014 Monday Times. All rights reserved.</p>
+</footer>
+
+</body>
+</html> 
