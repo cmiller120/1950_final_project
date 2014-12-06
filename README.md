@@ -25,6 +25,8 @@ Style redesign suggestions:
 
 11 social media icons to allow visitors follow comp1950 from facebook twittor google+ etc.
 
+12 page not found for not required pages
+
 These are just suggestions, hope you have better ideas to improve our project
 
 
