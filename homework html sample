@@ -8,6 +8,8 @@
 </script>
 <![endif]-->
 
+<link rel="stylesheet" href="default_styles.css" media="screen" />
+<link rel="stylesheet" href="print_styles.css" media="print" />
 
 <body>
 
@@ -15,19 +17,7 @@
   <h1>Homework # </h1>
 </header>
 
-<nav>
-  <ul>
-  <li>homework 1</li>
-   <li>homework 2</li>
-   <li>homework 3</li>
-   <li>homework 4</li>
-   <li>homework 5</li>
-   <li>homework 6</li>
-   <li>homework 7</li>
-   <li>homework 8</li>
-   <li>homework 9</li>
-  </ul>
-</nav>
+<!--#include file="navigation_protosite.shtml" -->
 
 <section>
 <h2>News Section</h2>
@@ -66,9 +56,7 @@
 
 </section>
 
-<footer>
-  <p>&amp;copy; 2014 Monday Times. All rights reserved.</p>
-</footer>
+<!--#include file="footer.shtml" -->
 
 </body>
 </html> 
