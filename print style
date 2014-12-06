@@ -1,6 +1,63 @@
 /*
 Css style for printing homework and quizes
 */
-background-color: white;
-font color:
-font size: 
+
+/*
+Hide unnecessary elements
+*/
+header, footer, navigation_protosite {
+display: none;
+}
+
+
+/*
+Re-styling Layout
+*/
+body, #content, #main{
+	   float: none;
+	   width: auto;
+	   margin: 0;
+	   padding: 0;
+	   background: none;
+	}
+
+
+
+
+/*
+Re-styling Visuals
+*/
+
+
+h1, h2, h3, h4, h5, h6 {
+		font-family: Verdana, Geneva, sans-serif;
+	}
+body, #content, , #main, #footer {
+		
+		font-family: "Times New Roman", Times, serif;
+		font-size:12pt/15pt;
+	}
+h1,h2,h3,p,body,header,footer, section, article.#content,main{
+color: #000000;
+
+}
+
+a:link, a:visited {
+		color: #4169E1;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+
+
+	
+/*
+Display Hyperlink Data
+*/	
+	
+	a:link:after, 
+	a:visited:after{
+	   content: " (URL: " attr(href) ") ";
+	   font-size: 90%;
+	}
+
+
