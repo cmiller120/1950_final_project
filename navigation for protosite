@@ -1,8 +1,16 @@
 <!--common Navigation bar on every page of protostie-->
-<ul>
-<li>Content </li>
-<li>Lectures
-    <ul>
+
+	<nav>
+		<ul id="navlist">
+			<li id="active"><a href="#" id="current">Home</a> 
+				<ul id="subnavlist">
+					<li id="subactive"><a href="#" id="subcurrent">Content</a></li>
+					<li><a href="#">About the course</a></li>
+					<li><a href="#">Resources</a></li>
+				</ul>
+			</li>
+		<li><a href="#">Lectures</a></li>
+		<ul>
     <li>Lecture 1</li>
     <li>Lecture 2</li>
     <li>Lecture 3</li>
@@ -15,17 +23,21 @@
     <li>Lecture 10</li>
     
     </ul>
-
-</li>
-<li>Homeworks
+		<li><a href="#">Quizzes</a></li>
+		<li>Homeworks
    <ul>
    <li>Homework 1  </li>
    <li>Homework 2  </li>
    <li>Homework 3  </li>
    
    </ul>
+   <li>Exercises </li>
+<li>Quizes </li>
 
 </li>
-<li>Exercises </li>
-<li>Quizes </li>
-</ul>
+		</ul>
+	</nav>
+
+
+
+
