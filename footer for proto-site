@@ -1,16 +1,25 @@
 <!--common footer for proto-site -->
+	<footer>
+		<p id="copy"> CopyRight &copy; 2014 · BCIT</p>
+		<aside>
+			<ul class="sitemap_pos">
+				<li class="sitemap_inline">
+					<a class="sitemap_display" href="http://bcitcomp.ca/students/">Students on bcitcomp.ca</a>
+				</li>
+				
+				<li class="sitemap_inline">
+					<a class="sitemap_display" href="https://my.bcit.ca/cp/home/displaylogin">my.bcit</a>
+				</li>
+				
+				<li class="sitemap_inline">
+					<a class="sitemap_display" href="http://www.bcit.ca/">bcit</a>
+				</li>
+				
+				<li class="sitemap_inline">
+					<a class="sitemap_display" href="http://www.bcit.ca/cas/computing/">bcit: Computing</a>
+				</li>
+			</ul>
+		</aside>
+	</footer>
 <footer>
-<ul>
-<li> associated
-<ul>
-<li> students on bcit.ca</li>
-<li> my.bcit</li>
-<li> bcit</li>
-<li> bcit:computing</li>
-</ul>
 
-<p>
-copyright&
-</p>
-
-</footer>
