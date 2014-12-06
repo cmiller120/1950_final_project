@@ -1,12 +1,46 @@
 /*
-Agenda css style 
+Agenda style
 */
-h1 {
+---------------------------------------------------------------------------------
+/*
+Agenda abstraction on top of the lecture page
+*/
+---------------------------------------------------
+.agenda{
+background-color:yellow;
+ box-shadow:10px 10px 50px 20px pink inset;
+}
+h2 {
+font-family: "Lucida Console", Monaco, monospace;
+font-style: italic;
+}
+ul{
+
+}
+li{
 
 }
 
-p{
 
-font: ;
-background-color: ;
+
+
+/*
+Css style for details of each agenda in the lecture
+*/
+-----------------------------------------------------
+.agenda_details h2{
+color: #fff;
+ 
+text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+
+
+/*
+multicolumn css3 style
+*/
+.agenda_details p{
+-webkit-column-count: 3; /* Chrome, Safari, Opera */
+-moz-column-count: 3; /* Firefox */
+column-count: 3;
+}
 }
